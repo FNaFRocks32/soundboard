@@ -1,4 +1,7 @@
 {
+  "name": "Freddy Laugh"
+  "color": "#694729"
+  "mp3": "sounds/freddy-laugh.mp3"
   "sounds": [
     {
       "name": "Fart",
